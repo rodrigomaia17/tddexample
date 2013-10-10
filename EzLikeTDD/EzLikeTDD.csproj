@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Aluno.cs" />
     <Compile Include="Discisplina.cs" />
+    <Compile Include="MatriculaSemPreRequisitoException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Turma.cs" />
   </ItemGroup>

@@ -9,7 +9,13 @@ namespace EzLikeTDD
     public class Discisplina
     {
         public string Nome { get; set; }
-        public IEnumerable<Discisplina> PreRequisitos { get; set; }
-        public IEnumerable<Discisplina> PreRequisitosParalelos { get; set; } 
+        public IList<Discisplina> PreRequisitos { get; set; }
+        public IList<Discisplina> PreRequisitosParalelos { get; set; }
+
+        public Discisplina()
+        {
+            PreRequisitos = new List<Discisplina>();
+            PreRequisitosParalelos = new List<Discisplina>();
+        }
     }
 }
