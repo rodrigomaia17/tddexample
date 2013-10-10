@@ -1,0 +1,5 @@
+E:\Projetos\EzLikeTDD\EzlikeTDD.Test\bin\Debug\EzlikeTDD.Test.dll
+E:\Projetos\EzLikeTDD\EzlikeTDD.Test\bin\Debug\EzlikeTDD.Test.pdb
+E:\Projetos\EzLikeTDD\EzlikeTDD.Test\obj\Debug\EzlikeTDD.Test.csprojResolveAssemblyReference.cache
+E:\Projetos\EzLikeTDD\EzlikeTDD.Test\obj\Debug\EzlikeTDD.Test.dll
+E:\Projetos\EzLikeTDD\EzlikeTDD.Test\obj\Debug\EzlikeTDD.Test.pdb
