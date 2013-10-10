@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace EzLikeTDD
 {
-    public class Class1
+    public class ALuno
     {
+        public IList<Discisplina> Cursadas { get; set; }
     }
 }

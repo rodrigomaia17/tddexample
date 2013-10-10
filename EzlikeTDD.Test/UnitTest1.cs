@@ -10,5 +10,12 @@ namespace EzlikeTDD.Test
         public void TestMethod1()
         {
         }
+
+        [TestMethod]
+        [ExpectedException(typeof (Exception), AllowDerivedTypes = true)]
+        public void NaoConsigoBla()
+        {
+            
+        }
     }
 }
